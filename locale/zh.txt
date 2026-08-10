@@ -18,13 +18,13 @@ HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055.html = <div style="text-align:left
 HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.760000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.670000000000023vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Bebas Neue Bold';">location</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.3900000000000152vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">address line 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.3900000000000152vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">address line 2</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.420000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac.</SPAN></SPAN></DIV></div>
 
 ### 按鈕
-Button_86CE4AF4_A651_6E27_41C1_2976598EEFA9.label = CONSUMER PRODUCT.
-Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4.label = ELECTRONICS.
-Button_1B9A3D00_16C4_0505_41B2_6830155B7D52.label = HYGIENE & MEDICAL.
-Button_1B9A6D00_16C4_0505_4197_F2108627CC98.label = SPORTSWEAR.
-Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = THE STORY.
-Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0.label = TRANSPORTATION.
-Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = WE ARE EVERYWHERE.
+Button_86CE4AF4_A651_6E27_41C1_2976598EEFA9.label = CONSUMER PRODUCT
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4.label = ELECTRONICS
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52.label = HYGIENE & MEDICAL
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98.label = SPORTSWEAR
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = THE STORY
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0.label = TRANSPORTATION
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = WE ARE EVERYWHERE
 Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145.label = lorem ipsum
 Button_221B5648_0C06_E5FD_4198_40C786948FF0.label = lorem ipsum
 

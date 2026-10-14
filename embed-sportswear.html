@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="zh-Hant"><head><meta charset="utf-8">
+<meta name="viewport" id="metaViewport" content="width=device-width,initial-scale=1,viewport-fit=cover" data-tdv-general-scale="0.5">
+<title>PAIHO SPORTSWEAR｜運動展間</title>
+<link rel="stylesheet" href="fonts.css?v=1791878848023">
+<style>html,body,#viewer{margin:0;width:100%;height:100%;overflow:hidden;background:#101419}#preloadContainer{position:absolute;inset:0;z-index:2;display:grid;place-items:center;background:#101419;color:white;font:16px Arial;pointer-events:none}#viewer{position:absolute;inset:0}</style>
+<script src="lib/tdvplayer.js?v=1791878848023"></script>
+</head><body><div id="viewer" class="fill-viewport"></div><div id="preloadContainer">正在載入運動 3D 展間…</div>
+<script>
+// Place this file beside the existing index.html. No change to the VTP or export.
+// Fix the entry scene so the iframe URL needs no additional parameters.
+const entryURL=new URL(location.href);
+entryURL.searchParams.delete('media');
+entryURL.searchParams.delete('media-index');
+entryURL.searchParams.set('media-name','gym31-bake_compressed');
+entryURL.hash='';
+history.replaceState(null,'',entryURL.href);
+const runtime=document.createElement('script');
+runtime.src=new URL('script.js?v=1791878848023',document.baseURI).href;
+runtime.onload=()=>{
+  // Keep the original export's device configuration, including mobile selection.
+
+  const originalInit=onVirtualTourInit;
+  onVirtualTourInit=function(){
+    originalInit();
+    const root=tour._getRootPlayer();
+    for(const child of root.get('children')){
+      if(child!==root.MainViewer)child.set('visible',false);
+    }
+    root.set('lockedOrientation',null);
+  };
+  onLoad();
+};
+runtime.onerror=()=>document.getElementById('preloadContainer').textContent='載入失敗，請重新整理或開啟完整展間。';
+document.head.appendChild(runtime);
+</script></body></html>
